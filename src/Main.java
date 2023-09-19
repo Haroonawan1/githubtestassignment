@@ -3,6 +3,7 @@
 public class Main {
     public static void main(String[] args) {
         System.out.println("Haroon Awan");
-        System.out.println("Morbuis");
+        System.out.println("Morbius");
+        System.out.println("ice cream");
         }
     }
